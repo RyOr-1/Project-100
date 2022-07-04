@@ -92,3 +92,10 @@ background-image: linear-gradient(to right top, red, red, orange, orange, yellow
 {
 	padding-left:5px;color:grey;
 }
+
+#roomName {
+	border: 4px;
+	border-style: ridge;
+	border-color: goldenrod;
+	border-radius: 10px;
+}
